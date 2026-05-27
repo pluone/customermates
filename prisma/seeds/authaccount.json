@@ -28,5 +28,20 @@
     "scope": null,
     "updatedAt": "2026-03-24T08:57:03.219Z",
     "userId": "2kcDZtawEexGNxNdzZBoCuPJr5NOkqV4"
+  },
+  {
+    "accessToken": null,
+    "accessTokenExpiresAt": null,
+    "accountId": "otMY3pkuz5OD6Yj5wVxfxsMW",
+    "createdAt": "2026-05-27T01:59:07.446Z",
+    "id": "5iVWQJGjB89KWXeoZlvMlWv9",
+    "idToken": null,
+    "password": "eb72da11350a49c62819e4ad01173b31:9a79605c5f499c63b192312bace24ef2021415cd1841fe702c6f5b80010a14d6",
+    "providerId": "credential",
+    "refreshToken": null,
+    "refreshTokenExpiresAt": null,
+    "scope": null,
+    "updatedAt": "2026-05-27T01:59:07.446Z",
+    "userId": "otMY3pkuz5OD6Yj5wVxfxsMW"
   }
 ]

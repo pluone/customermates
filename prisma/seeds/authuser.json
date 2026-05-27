@@ -18,5 +18,15 @@
     "image": null,
     "name": "julia.weber@customermates.com",
     "updatedAt": "2026-03-24T10:34:28.975Z"
+  },
+  {
+    "companyId": null,
+    "createdAt": "2026-05-27T01:59:07.446Z",
+    "email": "admin@customermates.local",
+    "emailVerified": true,
+    "id": "otMY3pkuz5OD6Yj5wVxfxsMW",
+    "image": null,
+    "name": "admin",
+    "updatedAt": "2026-05-27T01:59:07.446Z"
   }
 ]
